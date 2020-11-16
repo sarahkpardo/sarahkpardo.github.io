@@ -17,7 +17,7 @@ repository               : "sarahkpardo/sarahkpardo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Mathematician"
   location         : "Brooklyn | Abu Dhabi"
-  employer         :
+  employer         : "NYU Tandon"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:     
+    - label: "Medium"
+      icon: #"fas fa-fw fa-link"
+      url: "https://medium.com/@mathematician"
 
 
 # Reading Files
@@ -255,7 +259,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -277,7 +281,7 @@ whitelist:
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  - Jekyll Archives plugin archive pages ~> type: jekoutyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
