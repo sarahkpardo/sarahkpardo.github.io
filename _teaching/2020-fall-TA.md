@@ -10,10 +10,13 @@ location: "Brooklyn, NY"
 
 Jupyter notebooks from recitation demos for CS-GY 9223: Deep Learning
 
-Intro to Pytorch and Colab
+Pytorch & Colab
 -----
 
 Convolution
+-----
+
+Attention
 -----
 
 Reinforcement Learning
