@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course recitation"
 permalink: /teaching/2020-fall
 venue: "New York University, Computer Science and Engineering"
-date: Fall 2020
+date: 2020-10-1
 location: "Brooklyn, NY"
 ---
 
