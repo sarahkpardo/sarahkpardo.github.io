@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.F.A. in Studio Art, New York University, 2017
 * M.S. in Computer Science, NYU Tandon School of Engineering, 2021 (expected)
+* B.F.A. in Studio Art, New York University, 2017
 
 Work experience
 ======
