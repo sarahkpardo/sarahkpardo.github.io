@@ -12,21 +12,7 @@ jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
 extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
 TeX: {
         extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
-        equationNumbers: { autoNumber: "AMS" }, 
-        Macros: {
-                ceil: ["{\lceil#1\rceil}",1],
-                floor: ["{\lfloor#1\rfloor}",1],
-                of: ["\left(#1\right)}",1],
-                at: [1]{\left[#1\right]}",1],
-                substitute: ["{\left(#1\right)}",1],
-                tuple: ["{\left(#1\right)}",1],
-                inner: ["{\left(#1, #2\right)_{#3}}",3],
-                braces: ["{\left\{#1\right\}}",1],
-                abs: ["{\lvert#1\rvert}",1],
-                norm: ["{\lvert\lvert#1\rvert\rvert}",1],
-                bra: ["{\langle#1\rvert}",1],
-                ket: ["{\lvert#1\rangle}",1],
-                braket: ["{\langle#1\rangle}",1] }
+        equationNumbers: { autoNumber: "AMS" }
      }
 });
 </script>
