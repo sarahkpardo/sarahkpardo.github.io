@@ -12,6 +12,11 @@ It is powered by the [academicpages template](https://github.com/academicpages/a
 
 You can write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Content
+Operator Norms
 ======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. Consider $\mathcal{A}\at{u, \gamma} : H_{0}^{1}\of{\Omega} \rightarrow \mathbb{R}$ as a linear functional such that $\mathcal{A}\at{u, \gamma}\of{\phi} := \braket{\mathcal{A}\at{u, \gamma}, \phi}$
+1. Define the norm of $\mathcal{A}\at{u, \gamma}$ induced by the H1 norm as
+    $$\norm{\mathcal{A}\at{u, \gamma}}_{op} := \sup_{\phi\in H^{1}_{0}, \phi\neq 0}\frac{\braket{\mathcal{A}\at{u, \phi}, \phi}}{\norm{\phi}_{H^1}}$$
+    where the $H^{1}$-norm of $\phi$ is given by $\norm{\phi}^{2}_{H^{1}\of{\Omega}} = \int_{\Omega}\of{\abs{\phi\of{x}}^{2} + \abs{\nabla\phi\of{x}}^{2}}dx$
+1. With the parameterized $\tuple{u_\Theta, \gamma_\Theta}$ and $\phi_\eta$, define
+    $$E\of{\Theta, \eta} := \abs{\braket{ \mathcal{A}\at{u_\Theta, \gamma_\Theta}, \phi_{\eta}}}^{2}$$
