@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: Deep Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course recitation"
+permalink: /teaching/2020-fall
+venue: "New York University, Computer Science and Engineering"
+date: Fall 2020
+location: "Brooklyn, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Jupyter notebooks from recitation demos for CS-GY 9223: Deep Learning
 
-Heading 1
-======
+Intro to Pytorch and Colab
+-----
 
-Heading 2
-======
+Convolution
+-----
 
-Heading 3
-======
+Reinforcement Learning
+-----
