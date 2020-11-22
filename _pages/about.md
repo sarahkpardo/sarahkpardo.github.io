@@ -8,6 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Operator Norms
+======
 $\newcommand{\ceil}[1]{\lceil#1\rceil}
 \newcommand{\floor}[1]{\lfloor#1\rfloor}
 \newcommand{\of}[1]{\left(#1\right)} 
@@ -15,14 +18,14 @@ $\newcommand{\ceil}[1]{\lceil#1\rceil}
 \newcommand{\substitute}[1]{\left(#1\right)} 
 \newcommand{\tuple}[1]{\left(#1\right)}
 \newcommand{\inner}[3]{\left(#1, #2\right)_{#3}}
+
 \newcommand{\braces}[1]{\left\{#1\right\}}
 \newcommand{\abs}[1]{\lvert#1\rvert}
 \newcommand{\norm}[1]{\lvert\lvert#1\rvert\rvert}
 \newcommand{\bra}[1]{\langle#1\rvert}
 \newcommand{\ket}[1]{\lvert#1\rangle}
 \newcommand{\braket}[1]{\langle#1\rangle}$
-Operator Norms
-======
+
 1. Consider $\mathcal{A}\at{u, \gamma} : H_{0}^{1}\of{\Omega} \rightarrow \mathbb{R}$ as a linear functional such that $\mathcal{A}\at{u, \gamma}\of{\phi} := \braket{\mathcal{A}\at{u, \gamma}, \phi}$
 
 1. Define the norm of $\mathcal{A}\at{u, \gamma}$ induced by the H1 norm as
