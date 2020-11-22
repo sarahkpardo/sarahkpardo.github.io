@@ -8,9 +8,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-It is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
-
+$\newcommand{\ceil}[1]{\lceil#1\rceil}
+\newcommand{\floor}[1]{\lfloor#1\rfloor}
+\newcommand{\of}[1]{\left(#1\right)} 
+\newcommand{\at}[1]{\left[#1\right]}
+\newcommand{\substitute}[1]{\left(#1\right)} 
+\newcommand{\tuple}[1]{\left(#1\right)}
+\newcommand{\inner}[3]{\left(#1, #2\right)_{#3}}
+\newcommand{\braces}[1]{\left\{#1\right\}}
+\newcommand{\abs}[1]{\lvert#1\rvert}
+\newcommand{\norm}[1]{\lvert\lvert#1\rvert\rvert}
+\newcommand{\bra}[1]{\langle#1\rvert}
+\newcommand{\ket}[1]{\lvert#1\rangle}
+\newcommand{\braket}[1]{\langle#1\rangle}$
 Operator Norms
 ======
 1. Consider $\mathcal{A}\at{u, \gamma} : H_{0}^{1}\of{\Omega} \rightarrow \mathbb{R}$ as a linear functional such that $\mathcal{A}\at{u, \gamma}\of{\phi} := \braket{\mathcal{A}\at{u, \gamma}, \phi}$
