@@ -1,7 +1,7 @@
 ---
 title: 'Crystal Lattices'
-date: 2020-11-16
-permalink: /posts/2020/16/crystal-lattices/
+date: 2020-11-17
+permalink: /posts/2020/11/crystal-lattices/
 tags:
   - PDEs
   - optimization
