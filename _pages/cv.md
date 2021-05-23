@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, NYU Tandon School of Engineering, 2021 (expected)
-* B.F.A. in Studio Art, New York University, 2017
+* M.S. in Computer Science, NYU Tandon School of Engineering, May 2021
+* B.F.A. in Studio Art, New York University, May 2017
 
-Work experience
+Experience
 ======
-* Fall 2020: Research Assistant
-  * NYU Tandon
+* Fall 2020 \- present: Research Assistant
+  * NYU Tandon Data, Intelligence, and Computation for Engineering (DICE) Lab
   * Supervisor: Professor Chinmay Hegde
 * Fall 2020: Teaching Assistant
-  * CS-GY 9223 Deep Learning
+  * CS/ECE-GY Deep Learning
   * Supervisor: Professor Chinmay Hegde
   
 Skills
@@ -49,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
