@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Sarah's academic website"
+title: ""
 excerpt: "About me"
 layout: archive
 author_profile: true
