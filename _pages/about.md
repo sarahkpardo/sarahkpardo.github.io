@@ -8,6 +8,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+First, two things:
+
+'If I feel unhappy, I do mathematics to become happy. If I am happy, I do mathematics to keep happy.' - Alfred Renyi
+
+'A mathematician is a device for turning coffee into theorems.' - Alfred Renyi
+
 
 Some questions and thoughts I have about neural networks \(ongoing, in no particular order\)
 ======
