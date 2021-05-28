@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sarah's website"
 excerpt: "About me"
 layout: archive
 author_profile: true
