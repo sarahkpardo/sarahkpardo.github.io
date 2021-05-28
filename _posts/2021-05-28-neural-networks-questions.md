@@ -1,5 +1,6 @@
 ---
 title: 'Some questions and thoughts I have about neural networks'
+excerpt: "Why is it almost, but not quite, as effective to make layers very wide instead of networks very deep?"
 date: 2021-05-28
 permalink: /posts/2021/05/neural-networks-questions/
 tags:
