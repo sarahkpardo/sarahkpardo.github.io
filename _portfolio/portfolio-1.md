@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Scheme to improve the human condition"
+excerpt: "Inspired by James C. Scott's [original analysis.](https://politicalscience.yale.edu/publications/seeing-state-how-certain-schemes-improve-human-condition-have-failed)"
 collection: portfolio
 ---
 
-This is an item in the portfolio.
+Inspired by James C. Scott's [original analysis.](https://politicalscience.yale.edu/publications/seeing-state-how-certain-schemes-improve-human-condition-have-failed)
