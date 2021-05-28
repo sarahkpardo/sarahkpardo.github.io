@@ -4,4 +4,4 @@ excerpt: "Inspired by James C. Scott's [original analysis.](https://politicalsci
 collection: portfolio
 ---
 
-Inspired by James C. Scott's [original analysis.](https://politicalscience.yale.edu/publications/seeing-state-how-certain-schemes-improve-human-condition-have-failed)
+Informed by James C. Scott's [original analysis.](https://politicalscience.yale.edu/publications/seeing-state-how-certain-schemes-improve-human-condition-have-failed)
