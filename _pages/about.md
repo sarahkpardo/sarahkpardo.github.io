@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: ""
+excerpt: "About"
 layout: archive
 author_profile: true
 redirect_from: 
