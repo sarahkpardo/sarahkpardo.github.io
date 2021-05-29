@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version here](https://sarahkpardo.github.io/files/Sarah_Pardo_CV.pdf)
+
 Education
 ======
 * M.S. in Computer Science, NYU Tandon School of Engineering, May 2021
