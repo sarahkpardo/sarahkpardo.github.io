@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-## Research Goal:
-=====
+## Research Objective:
+
 
 Record, process, and model human signals creatively and with compassion; use these signals to understand healthy physical functioning of individuals and the way it determines human society and the formation of social environments; given that understanding, construct and solve humane optimization problems to improve wellbeing.
 
