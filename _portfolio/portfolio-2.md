@@ -4,4 +4,4 @@ excerpt: "What happens if we consider a neural network to be an operator?"
 collection: portfolio
 ---
 
-This is the central question of my thesis. Preliminary results suggest it works well, to say the least.
+Masters' thesis on neural operators, considering the application of neural networks to operator-valued problems, with inspiration from principles of functional data analysis.
