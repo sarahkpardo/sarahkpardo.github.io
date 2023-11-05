@@ -3,7 +3,7 @@ title: "Tactics, Threats & Targets: Modeling Disinformation and its Mitigation"
 collection: publications
 permalink: /publication/2023-NDSS-tactics-targets-threats
 excerpt: 'A qualitative study on current approaches to mitigating the spread of misinformation and disinformation campaigns.'
-date: 2023-03
+date: 2023-03-01
 venue: 'NDSS'
 paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s657_paper.pdf'
 
