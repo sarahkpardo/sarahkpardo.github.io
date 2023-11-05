@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.F.A. in Studio Art, New York University, 2017
+* M.S. in Computer Science, NYU Tandon School of Engineering, 2021
+* Ph.D in Mathematics, tbd, 2030 (estimated)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2022 - Present: Research Assistant
+  * [Clinical AI Lab](https://clinicalailab.com/), NYU Abu Dhabi
+  * Supervisor: Prof. Farah Shamout
+    
+* Fall 2021 - Winter 2022: Research Assistant
+  * [CITIES](https://sites.nyuad.nyu.edu/cities/), NYU Abu Dhabi
+  * Supervisor: Prof. Christina Popper / Prof. Azza Abouzied
+    
+* Fall 2020 - Spring 2021: Research Assistant
+  * [DICE Lab](https://chinmayhegde.github.io/lab/), NYU Tandon
+  * Supervisor: Prof. Chinmay Hegde
   
+Interests
+======
+* Tensor decomposition and compressed sensing.
+* Dynamical systems and the Koopman Operator.
+* Complex analysis, complex-valued neural networks, and optical computing devices.
+* Electromagnetic wave-based imaging and associated inverse problems.
+* Anything ever studied or engaged by John von Neumann.
+* Feynman diagrams.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PyTorch
+* SQL
+* HPC
+* MATLAB
 
 Publications
 ======
@@ -54,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
