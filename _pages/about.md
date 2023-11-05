@@ -10,4 +10,6 @@ redirect_from:
 
 Under construction.
 
-In the meantime, you can visit the [Zotero library](https://www.zotero.org/groups/5240598/found-objects) where I collect things which I think are all the same but can't yet articulate how. If you can help with that, please let me know.
+In the meantime, you can visit the [Zotero library](https://www.zotero.org/groups/5240598/found-objects) where I collect things which are equivalent and am still working on articulating why that's interesting.
+
+Also, I have been wondering lately why I've never heard anybody refer to ReLU, a.k.a. the ramp function, as the antiderivative of the Heaviside step function, because it makes the effectiveness of GELU make so much more sense, so I'm referring to it here for anyone who wonders the same thing. It's also a Green's function for the second derivative operator.
