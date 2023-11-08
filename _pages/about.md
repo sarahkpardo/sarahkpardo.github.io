@@ -10,7 +10,9 @@ redirect_from:
 
 Under construction.
 
-In the meantime, you can visit [this Zotero library](https://www.zotero.org/groups/5240598/found-objects) where I am gathering a collection of things which I find interesting to look at next to each other.
+In the meantime, you can visit [this Zotero library](https://www.zotero.org/groups/5240598/found-objects) where I am gathering a collection of things which I find interesting to look at next to each other. You can also look at some generations I made with DALL-E [here](https://labs.openai.com/sc/RT6MUL6KeUCZSat2AQXU0ZJT). I was totally floored by the humanity of [this one](https://labs.openai.com/s/n6ebRMT5wb57CxkkVWXR34Vu) in particular. On the other hand, [this one](https://labs.openai.com/s/n6ebRMT5wb57CxkkVWXR34Vu) is rather concerning.
+
+***A model, when fitted to data created and labeled by humans, is no less than a mirror which reflects back to us our patterns.***
 
 Also, I have been wondering lately why I've never heard anybody refer to ReLU, i.e. the ramp function $R(x) = \max\\{0, 1\\},$ as the antiderivative of the Heaviside step function, because it makes the effectiveness of GELU make so much more sense. 
 
