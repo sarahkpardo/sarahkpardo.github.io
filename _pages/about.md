@@ -14,9 +14,7 @@ In the meantime, you can visit [this Zotero library](https://www.zotero.org/grou
 
 ***A model, when fitted to data created and labeled by people, is no less than a mirror which reflects back to us our patterns.***
 
-Also, I have been wondering lately why I've never heard anybody refer to ReLU, i.e. the ramp function $R(x) = \max\\{0, x\\},$ as the antiderivative of the Heaviside step function, because it makes the effectiveness of GELU make so much more sense. 
-
-$R(x)$ is on my mind at the moment for a variety of reasons, not least of which is that it satisfies the differential equation
+Also, I have been thinking a lot lately about ReLU, i.e. the ramp function $R(x) = \max\\{0, x\\},$ for a variety of reasons, not least of which is that it satisfies the differential equation
 
 $$
 \frac{d^{2}x}{dx^{2}}R(x - x_{0}) = \delta(x - x_{0}),
