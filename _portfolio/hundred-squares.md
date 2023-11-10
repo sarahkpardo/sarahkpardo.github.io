@@ -5,3 +5,7 @@ collection: portfolio
 ---
 
  <br/><img src='/images/hundred_squares_v.jpg'>
+
+ <br/><img src='/images/hundred_squares_x-a.jpg'>
+
+ <br/><img src='/images/hundred_squares_x-b.jpg'>
