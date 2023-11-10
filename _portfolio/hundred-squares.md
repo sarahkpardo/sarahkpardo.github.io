@@ -9,3 +9,8 @@ collection: portfolio
  <br/><img src='/images/hundred_squares_x-a.jpg'>
 
  <br/><img src='/images/hundred_squares_x-b.jpg'>
+
+ <br/><img src='/images/hundred_squares_ii-a.jpg'>
+
+  <br/><img src='/images/hundred_squares_ii-b.jpg'>
+  
