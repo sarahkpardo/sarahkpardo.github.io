@@ -16,7 +16,7 @@ In the meantime, you can visit [this Zotero library](https://www.zotero.org/grou
 
 A recipe for [the best tomato puree](https://medium.com/@thecomplexplane/tomato-pur%C3%A9e-e3142d2187fe).
 
-Also, I have been thinking a lot lately about ReLU, i.e. the ramp function $R(x) = \max\\{0, x\\},$ for a variety of reasons, not least of which is that it satisfies the differential equation
+I have been thinking a lot lately about ReLU, i.e. the ramp function $R(x) = \max\\{0, x\\},$ for a variety of reasons, not least of which is that it satisfies the differential equation
 
 $$
 \frac{d^{2}x}{dx^{2}}R(x - x_{0}) = \delta(x - x_{0}),
@@ -29,3 +29,5 @@ f(x) = f(a) + (x - a)f^{\prime}(a) + \int_{a}^{b}R(x - s)f^{\prime\prime}(s)ds, 
 $$
 
 Expanded thoughts on the significance of this are also under construction.
+
+Currently experimenting with sharing content [here](https://thecomplexplane.notion.site/38c96f5624a0404385367f0531be7e98?v=cfd7570c8efd433baab25238dcae903f&pvs=4).
