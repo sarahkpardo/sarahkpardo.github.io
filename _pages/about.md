@@ -14,8 +14,6 @@ In the meantime, you can visit [this Zotero library](https://www.zotero.org/grou
 
 ***A model, when fitted to data created and labeled by people, is no less than a mirror which reflects back to us our patterns.***
 
-A recipe for [the best tomato puree](https://medium.com/@thecomplexplane/tomato-pur%C3%A9e-e3142d2187fe).
-
 I have been thinking a lot lately about ReLU, i.e. the ramp function $R(x) = \max\\{0, x\\},$ for a variety of reasons, not least of which is that it satisfies the differential equation
 
 $$
