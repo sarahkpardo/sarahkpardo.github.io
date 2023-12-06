@@ -28,4 +28,3 @@ $$
 
 Expanded thoughts on the significance of this are also under construction.
 
-Currently experimenting with sharing content [here](https://thecomplexplane.notion.site/38c96f5624a0404385367f0531be7e98?v=cfd7570c8efd433baab25238dcae903f&pvs=4).
