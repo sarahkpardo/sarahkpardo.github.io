@@ -16,20 +16,3 @@ Here is one of the conjectures I have derived from these collections:
 > **_A model, when built out of data created and labeled by people, is no less than a mirror which reflects back to us our patterns._**
 
 Proofs with and without words are forthcoming.
-<!---
-I have been thinking a lot lately about ReLU, i.e. the ramp function $R(x) = \max\\{0, x\\},$ for a variety of reasons, not least of which is that it satisfies the differential equation
-
-$$
-\frac{d^{2}x}{dx^{2}}R(x - x_{0}) = \delta(x - x_{0}),
-$$
-
-which means that it is a Green's function for the second derivative operator. 
- , and as such, for any function $f(x)$ with an integrable second derivative $f^{\prime\prime}$, 
-
-$$
-f(x) = f(a) + (x - a)f^{\prime}(a) + \int_{a}^{b}R(x - s)f^{\prime\prime}(s)ds, \quad a < x < b.
-$$
-
-
-Expanded thoughts on the significance of this are also under construction.
----> 
