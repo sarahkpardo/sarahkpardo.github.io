@@ -13,7 +13,7 @@ Education
 ======
 * B.F.A. in Studio Art, New York University, 2017
 * M.S. in Computer Science, NYU Tandon School of Engineering, 2021
-* Ph.D in Mathematics, tbd, 2030 (estimated)
+* Ph.D in Applied Mathematics, TBD, c. 2030
 
 Work experience
 ======
