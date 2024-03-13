@@ -15,4 +15,10 @@ Here is one of the conjectures I have derived from these collections:
 
 > **_A model, when built out of data created and labeled by people, is no less than a mirror which reflects back to us our patterns._**
 
+Here is a corollary:
+
+> **_The output of a model trained on human behavior is a completion of the statement_**
+> 
+>       If you continue to do things as you have done them before, here is what you would do next:
+
 Proofs with and without words are forthcoming.
