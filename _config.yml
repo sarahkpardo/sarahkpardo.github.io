@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sarah Pardo"
   avatar           : "profile.png"
-  bio              : "Artist by training, computer scientist by profession, mathematician by nature."
-  location         : "Berkeley, CA"
-  employer         :
+  bio              : "Sculptor of clay, words, and abstractions."
+  location         : "Munich, Germany"
+  employer         : "Ludwig-Maximilians-Universität München"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YDPbtlkAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sarahpardo"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0286-1053"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
