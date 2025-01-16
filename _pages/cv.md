@@ -37,12 +37,10 @@ Work experience
   
 Interests
 ======
-* Tensor decomposition and compressed sensing.
-* Dynamical systems and the Koopman Operator.
+* Computational hardness and fastness in theory and practice.
 * Complex analysis, complex-valued neural networks, and optical computing devices.
 * Electromagnetic wave-based imaging and associated inverse problems.
-* Anything ever studied or engaged by John von Neumann.
-* Feynman diagrams.
+* Anything ever contemplated or engaged by John von Neumann.
 
 Skills
 ======
