@@ -20,7 +20,7 @@ A corollary:
 > 
 >       If you continue to do things as you have done them before, here is what you would do next:
 
-A theorem on human nature, as such:
-> **_Noise is a matter of opinion on what the signal is._**
+<!---A theorem on human nature, as such:
+> **_Noise is a matter of opinion on what the signal is._**--->
 
 Proofs with and without words are forthcoming.
